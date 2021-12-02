@@ -1,0 +1,26 @@
+{
+  "name": "outkickdiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinTabz/OutkickDiscordBot.git"
+  },
+  "author": "Martin Šíl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinTabz/OutkickDiscordBot/issues"
+  },
+  "homepage": "https://github.com/MartinTabz/OutkickDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "puppeteer": "^12.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
